@@ -1,0 +1,26 @@
+{
+  "version": 2,
+  "dgSpecHash": "y87ZPMbLlog=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\natha\\Documents\\CSharpProjs\\wgpu-window\\WGPU\\FirstApp\\FirstApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\natha\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\natha\\.nuget\\packages\\microsoft.dotnet.platformabstractions\\3.1.6\\microsoft.dotnet.platformabstractions.3.1.6.nupkg.sha512",
+    "C:\\Users\\natha\\.nuget\\packages\\microsoft.extensions.dependencymodel\\8.0.0\\microsoft.extensions.dependencymodel.8.0.0.nupkg.sha512",
+    "C:\\Users\\natha\\.nuget\\packages\\silk.net.core\\2.20.0\\silk.net.core.2.20.0.nupkg.sha512",
+    "C:\\Users\\natha\\.nuget\\packages\\silk.net.glfw\\2.20.0\\silk.net.glfw.2.20.0.nupkg.sha512",
+    "C:\\Users\\natha\\.nuget\\packages\\silk.net.maths\\2.20.0\\silk.net.maths.2.20.0.nupkg.sha512",
+    "C:\\Users\\natha\\.nuget\\packages\\silk.net.webgpu\\2.20.0\\silk.net.webgpu.2.20.0.nupkg.sha512",
+    "C:\\Users\\natha\\.nuget\\packages\\silk.net.webgpu.native.wgpu\\2.20.0\\silk.net.webgpu.native.wgpu.2.20.0.nupkg.sha512",
+    "C:\\Users\\natha\\.nuget\\packages\\silk.net.windowing\\2.20.0\\silk.net.windowing.2.20.0.nupkg.sha512",
+    "C:\\Users\\natha\\.nuget\\packages\\silk.net.windowing.common\\2.20.0\\silk.net.windowing.common.2.20.0.nupkg.sha512",
+    "C:\\Users\\natha\\.nuget\\packages\\silk.net.windowing.glfw\\2.20.0\\silk.net.windowing.glfw.2.20.0.nupkg.sha512",
+    "C:\\Users\\natha\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
+    "C:\\Users\\natha\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\natha\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\natha\\.nuget\\packages\\system.text.encodings.web\\8.0.0\\system.text.encodings.web.8.0.0.nupkg.sha512",
+    "C:\\Users\\natha\\.nuget\\packages\\system.text.json\\8.0.0\\system.text.json.8.0.0.nupkg.sha512",
+    "C:\\Users\\natha\\.nuget\\packages\\ultz.native.glfw\\3.3.9.2\\ultz.native.glfw.3.3.9.2.nupkg.sha512"
+  ],
+  "logs": []
+}
